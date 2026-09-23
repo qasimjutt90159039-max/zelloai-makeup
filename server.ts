@@ -1,6 +1,7 @@
 import express, { Request, Response } from 'express';
 import path from 'path';
 import fs from 'fs';
+import defaultSalonDb from './salon-database.json';
 import { 
   INITIAL_PRODUCTS, 
   INITIAL_SERVICES,
@@ -70,22 +71,14 @@ function loadDatabase(): SalonDatabase {
       const raw = fs.readFileSync(DB_FILE, 'utf-8');
       return JSON.parse(raw);
     }
-    const rootDbFile = path.join(process.cwd(), 'salon-database.json');
-    if (fs.existsSync(rootDbFile)) {
-      const raw = fs.readFileSync(rootDbFile, 'utf-8');
-      const data = JSON.parse(raw);
-      if (process.env.VERCEL) {
-        try {
-          fs.writeFileSync(DB_FILE, raw, 'utf-8');
-        } catch {
-          // ignore
-        }
-      }
-      return data;
-    }
   } catch (err) {
-    console.error('Failed reading salon-database.json, falling back to initial data', err);
+    console.warn('Could not read cached database from disk:', err);
   }
+
+  if (defaultSalonDb && Array.isArray((defaultSalonDb as any).products)) {
+    return defaultSalonDb as unknown as SalonDatabase;
+  }
+
   return {
     products: [...INITIAL_PRODUCTS],
     services: [...INITIAL_SERVICES],
@@ -117,12 +110,14 @@ function saveDatabase() {
   try {
     fs.writeFileSync(DB_FILE, JSON.stringify(db, null, 2), 'utf-8');
   } catch (err) {
-    console.error('Failed writing salon-database.json', err);
+    console.warn('Could not persist database to disk:', err);
   }
 }
 
-// Ensure database is initialized
-saveDatabase();
+// Only persist to disk when running full local server
+if (!process.env.VERCEL) {
+  saveDatabase();
+}
 
 /* -------------------------------------------------------------
    HEALTH CHECK ROUTE (/api/health & /api)
@@ -887,7 +882,8 @@ app.post('/api/seed', (req: Request, res: Response) => {
 ------------------------------------------------------------- */
 async function startServer() {
   if (process.env.NODE_ENV !== 'production' && !process.env.VERCEL) {
-    const { createServer: createViteServer } = await import('vite');
+    const vitePkg = 'vite';
+    const { createServer: createViteServer } = await import(vitePkg);
     const vite = await createViteServer({
       server: { middlewareMode: true },
       appType: 'spa',
