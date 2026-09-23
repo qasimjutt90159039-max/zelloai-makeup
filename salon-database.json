@@ -1,0 +1,2127 @@
+{
+  "products": [
+    {
+      "id": "prod-hair-01",
+      "name": "Keratin Peptide Restorative Shampoo",
+      "slug": "keratin-peptide-restorative-shampoo",
+      "category": "Hair Care",
+      "itemType": "product",
+      "description": "A sulfate-free salon-grade shampoo infused with biomimetic keratin peptides to rebuild fractured bonds, tame flyaways, and preserve vibrant hair color.",
+      "price": 3200,
+      "discountPrice": 2800,
+      "originalPrice": 3200,
+      "images": [
+        "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "stock": 24,
+      "stockCount": 24,
+      "rating": 4.9,
+      "reviews": 38,
+      "reviewsCount": 38,
+      "brand": "Zoellas Atelier",
+      "featured": true,
+      "bestSeller": true,
+      "isBestSeller": true,
+      "tags": [
+        "Hair Care",
+        "Sulfate Free",
+        "Keratin",
+        "Salon Grade"
+      ],
+      "ingredients": "Deionized Water, Sodium Lauroyl Methyl Isethionate, Hydrolyzed Keratin, Argan Oil, Panthenol (Pro-Vitamin B5).",
+      "howToUse": "Lather into wet scalp and massage gently with fingertips for 2 minutes. Rinse thoroughly with lukewarm water.",
+      "isDemoNotice": "Catalog demo specification. Contact 03111802834 for live inventory status."
+    },
+    {
+      "id": "prod-hair-02",
+      "name": "Silk Moisture Intense Hair Conditioner",
+      "slug": "silk-moisture-intense-hair-conditioner",
+      "category": "Hair Care",
+      "itemType": "product",
+      "description": "Infused with pure silk amino acids and cold-pressed macadamia seed oil, this deep conditioner melts away knots and provides featherlight detangling.",
+      "price": 3400,
+      "discountPrice": 2950,
+      "originalPrice": 3400,
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "stock": 18,
+      "stockCount": 18,
+      "rating": 4.8,
+      "reviews": 26,
+      "brand": "Zoellas Atelier",
+      "featured": false,
+      "bestSeller": true,
+      "tags": [
+        "Conditioner",
+        "Silk Proteins",
+        "Detangling"
+      ],
+      "ingredients": "Aqua, Cetearyl Alcohol, Silk Amino Acids, Macadamia Ternifolia Seed Oil, Behentrimonium Methosulfate.",
+      "howToUse": "After shampooing, apply mid-shaft to ends. Leave for 3 minutes, then rinse."
+    },
+    {
+      "id": "prod-hair-03",
+      "name": "Moroccan Golden Argan Gloss Serum",
+      "slug": "moroccan-golden-argan-gloss-serum",
+      "category": "Hair Care",
+      "itemType": "product",
+      "description": "Weightless finishing elixir that shields against humidity, seals split ends, and delivers an instant mirror glaze without greasiness.",
+      "price": 3800,
+      "originalPrice": 4200,
+      "images": [
+        "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80",
+      "stock": 30,
+      "stockCount": 30,
+      "rating": 5,
+      "reviews": 44,
+      "brand": "Botanical Haircare",
+      "featured": true,
+      "bestSeller": true,
+      "tags": [
+        "Argan Oil",
+        "Hair Serum",
+        "Gloss",
+        "Frizz Control"
+      ],
+      "ingredients": "Cyclopentasiloxane, Dimethiconol, Pure Argania Spinosa Kernel Oil, Linum Usitatissimum Seed Oil.",
+      "howToUse": "Pump 1–2 drops between palms and sweep through damp or dry ends."
+    },
+    {
+      "id": "prod-hair-04",
+      "name": "Intensive Bond-Rebuilding Hair Mask",
+      "slug": "intensive-bond-rebuilding-hair-mask",
+      "category": "Hair Care",
+      "itemType": "product",
+      "description": "Concentrated weekly recovery butter containing botanical lipid complexes to heal chemically bleached or heat-stressed tresses.",
+      "price": 4500,
+      "images": [
+        "https://images.unsplash.com/photo-1526947425960-945c6e72858f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?auto=format&fit=crop&w=800&q=80",
+      "stock": 12,
+      "stockCount": 12,
+      "rating": 4.9,
+      "reviews": 31,
+      "brand": "Zoellas Atelier",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Hair Mask",
+        "Bond Repair",
+        "Weekly Treatment"
+      ],
+      "ingredients": "Shea Butter, Hydrolyzed Wheat Protein, Ceramide NP, Squalane, Tocopherol.",
+      "howToUse": "Apply generously to damp towel-dried hair. Comb through and leave for 10–15 minutes before rinsing."
+    },
+    {
+      "id": "prod-hair-05",
+      "name": "Herbal Rosemary & Biotin Scalp Oil",
+      "slug": "herbal-rosemary-biotin-scalp-oil",
+      "category": "Hair Care",
+      "itemType": "product",
+      "description": "Cold-pressed infusion of rosemary, peppermint, castor, and biotin to invigorate microcirculation, strengthen roots, and stimulate density.",
+      "price": 2400,
+      "images": [
+        "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80",
+      "stock": 40,
+      "stockCount": 40,
+      "rating": 4.7,
+      "reviews": 52,
+      "brand": "Organic Botanica",
+      "featured": false,
+      "bestSeller": true,
+      "tags": [
+        "Rosemary Oil",
+        "Scalp Care",
+        "Hair Growth"
+      ],
+      "ingredients": "Rosmarinus Officinalis Leaf Oil, Ricinus Communis Seed Oil, Biotin, Sweet Almond Oil.",
+      "howToUse": "Part hair into sections and drop oil onto scalp. Massage thoroughly for 5 minutes before washing."
+    },
+    {
+      "id": "prod-hair-06",
+      "name": "230°C Thermal Heat Defense Shield Spray",
+      "slug": "thermal-heat-defense-shield-spray",
+      "category": "Hair Care",
+      "itemType": "product",
+      "description": "Lightweight invisible barrier spray that defends delicate hair fibers against curling wands and straighteners up to 230°C (450°F).",
+      "price": 2900,
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "stock": 22,
+      "stockCount": 22,
+      "rating": 4.8,
+      "reviews": 19,
+      "brand": "Zoellas Atelier",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Heat Protectant",
+        "Thermal Shield",
+        "Styling"
+      ],
+      "ingredients": "Aqua, Polysorbate 20, Polyquaternium-55, Hydrolyzed Vegetable Protein.",
+      "howToUse": "Mist evenly over damp or dry hair prior to blow-drying or hot iron styling."
+    },
+    {
+      "id": "prod-hair-07",
+      "name": "Flexi-Hold Velvet Hair Styling Cream",
+      "slug": "flexi-hold-velvet-hair-styling-cream",
+      "category": "Hair Care",
+      "itemType": "product",
+      "description": "Touchable medium-hold styling balm that defines natural curls and waves while preventing humidity-induced puffiness.",
+      "price": 2600,
+      "images": [
+        "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80",
+      "stock": 15,
+      "stockCount": 15,
+      "rating": 4.6,
+      "reviews": 14,
+      "brand": "Zoellas Atelier",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Styling Cream",
+        "Curl Definition",
+        "Anti Frizz"
+      ],
+      "ingredients": "Aloe Barbadensis Leaf Juice, Cetearyl Alcohol, Coconut Alkanes, Jojoba Esters.",
+      "howToUse": "Work a nickel-sized amount through towel-dried curls and air dry or diffuse."
+    },
+    {
+      "id": "prod-skin-01",
+      "name": "Gentle Chamomile Foaming Cleanser",
+      "slug": "gentle-chamomile-foaming-cleanser",
+      "category": "Skin Care",
+      "itemType": "product",
+      "description": "pH-balanced velvet cloud cleanser that removes daily grime, sunscreen, and waterproof makeup without stripping skin lipids.",
+      "price": 2800,
+      "discountPrice": 2400,
+      "originalPrice": 2800,
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+      "stock": 35,
+      "stockCount": 35,
+      "rating": 4.9,
+      "reviews": 41,
+      "brand": "Dermacare Studio",
+      "featured": true,
+      "bestSeller": true,
+      "tags": [
+        "Cleanser",
+        "Sensitive Skin",
+        "Chamomile",
+        "pH 5.5"
+      ],
+      "ingredients": "Aqua, Cocamidopropyl Betaine, Chamomilla Recutita Flower Extract, Glycerin, Allantoin.",
+      "howToUse": "Pump 2 times onto damp palms, massage in circular motions for 60 seconds, then rinse with cool water."
+    },
+    {
+      "id": "prod-skin-02",
+      "name": "Ceramide Barrier Hydrating Moisturizer",
+      "slug": "ceramide-barrier-hydrating-moisturizer",
+      "category": "Skin Care",
+      "itemType": "product",
+      "description": "Rich yet non-greasy lipid cream loaded with 3 essential ceramides, squalane, and hyaluronic acid to cushion dry or compromised skin.",
+      "price": 3600,
+      "images": [
+        "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?auto=format&fit=crop&w=800&q=80",
+      "stock": 28,
+      "stockCount": 28,
+      "rating": 4.9,
+      "reviews": 49,
+      "brand": "Dermacare Studio",
+      "featured": true,
+      "bestSeller": true,
+      "tags": [
+        "Moisturizer",
+        "Ceramides",
+        "Barrier Repair",
+        "Hydration"
+      ],
+      "ingredients": "Ceramide NP, Ceramide AP, Ceramide EOP, Plant Squalane, Sodium Hyaluronate.",
+      "howToUse": "Smooth over clean face and neck every morning and evening."
+    },
+    {
+      "id": "prod-skin-03",
+      "name": "15% Vitamin C Glow Brightening Serum",
+      "slug": "15-percent-vitamin-c-glow-serum",
+      "category": "Skin Care",
+      "itemType": "product",
+      "description": "Potent antioxidant elixir combining L-Ascorbic Acid, Ferulic Acid, and Kakadu Plum to fade acne marks and promote lit-from-within clarity.",
+      "price": 4200,
+      "originalPrice": 4800,
+      "images": [
+        "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+      "stock": 20,
+      "stockCount": 20,
+      "rating": 5,
+      "reviews": 37,
+      "brand": "Radiance Lab",
+      "featured": true,
+      "bestSeller": true,
+      "tags": [
+        "Vitamin C",
+        "Brightening",
+        "Dark Spots",
+        "Antioxidant"
+      ],
+      "ingredients": "Aqua, 15% Ethylated Ascorbic Acid, Ferulic Acid, Tocopherol, Niacinamide.",
+      "howToUse": "Apply 3–4 drops onto freshly cleansed face in the morning. Follow with daily SPF."
+    },
+    {
+      "id": "prod-skin-04",
+      "name": "Damask Rose & Hyaluronic Hydrating Mist",
+      "slug": "damask-rose-hyaluronic-hydrating-mist",
+      "category": "Skin Care",
+      "itemType": "product",
+      "description": "Steam-distilled Damascena rose floral water with multi-molecular hyaluronic acid to refresh, balance pH, and prep skin for serums.",
+      "price": 2200,
+      "images": [
+        "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80",
+      "stock": 32,
+      "stockCount": 32,
+      "rating": 4.8,
+      "reviews": 28,
+      "brand": "Botanical Haircare",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Rose Mist",
+        "Toner",
+        "Hydrating Mist"
+      ],
+      "ingredients": "Rosa Damascena Flower Water, Sodium Hyaluronate, Witch Hazel Extract, Glycerin.",
+      "howToUse": "Mist liberally over clean face before moisturizer, or spray throughout the day to revive makeup."
+    },
+    {
+      "id": "prod-skin-05",
+      "name": "Invisible Velvet Mineral Sunscreen SPF 50+",
+      "slug": "invisible-velvet-mineral-sunscreen-spf-50",
+      "category": "Skin Care",
+      "itemType": "product",
+      "description": "Broad spectrum PA++++ non-nano zinc sunscreen that dries down to a velvety matte finish with zero chalky white cast on olive skin tones.",
+      "price": 3500,
+      "images": [
+        "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80",
+      "stock": 45,
+      "stockCount": 45,
+      "rating": 4.9,
+      "reviews": 58,
+      "brand": "Dermacare Studio",
+      "featured": true,
+      "bestSeller": true,
+      "tags": [
+        "Sunscreen",
+        "SPF 50",
+        "Zero White Cast",
+        "Mineral SPF"
+      ],
+      "ingredients": "Zinc Oxide 18%, Titanium Dioxide 4%, Centella Asiatica Extract, Green Tea Extract.",
+      "howToUse": "Apply 2 finger lengths evenly over face and neck 15 minutes before sun exposure."
+    },
+    {
+      "id": "prod-skin-06",
+      "name": "French Pink Clay Pore Refining Mask",
+      "slug": "french-pink-clay-pore-refining-mask",
+      "category": "Skin Care",
+      "itemType": "product",
+      "description": "Purifying mineral clay paste that draws out stubborn sebum impurities and tightens pore appearance without leaving skin dry or taut.",
+      "price": 2900,
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "stock": 16,
+      "stockCount": 16,
+      "rating": 4.7,
+      "reviews": 22,
+      "brand": "Radiance Lab",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Clay Mask",
+        "Pore Tightening",
+        "Detox"
+      ],
+      "ingredients": "Kaolin, Montmorillonite (Pink Clay), Rosa Canina Fruit Oil, Aloe Leaf Extract.",
+      "howToUse": "Smooth an even layer across the T-zone. Leave for 10 minutes until semi-dry and wash with warm water."
+    },
+    {
+      "id": "prod-skin-07",
+      "name": "Gentle PHA & Bamboo Micro Exfoliating Scrub",
+      "slug": "gentle-pha-bamboo-micro-exfoliating-scrub",
+      "category": "Skin Care",
+      "itemType": "product",
+      "description": "Biodegradable spherical bamboo micro-pearls suspended in gluconolactone (PHA) to gently polish away textured flaky surface cells.",
+      "price": 3100,
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+      "stock": 19,
+      "stockCount": 19,
+      "rating": 4.8,
+      "reviews": 17,
+      "brand": "Dermacare Studio",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Exfoliating Scrub",
+        "PHA",
+        "Smooth Skin"
+      ],
+      "ingredients": "Bambusa Arundinacea Stem Powder, Gluconolactone, Sweet Almond Oil, Squalane.",
+      "howToUse": "Gently massage onto clean wet skin for 45 seconds twice a week, then rinse."
+    },
+    {
+      "id": "prod-mu-01",
+      "name": "Luminous Silk Flawless Coverage Foundation",
+      "slug": "luminous-silk-flawless-coverage-foundation",
+      "category": "Makeup",
+      "itemType": "product",
+      "description": "Lightweight buildable medium-to-full coverage liquid foundation crafted to withstand warm climates and deliver an airbrushed satin glow.",
+      "price": 4800,
+      "originalPrice": 5500,
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "stock": 25,
+      "stockCount": 25,
+      "rating": 4.9,
+      "reviews": 45,
+      "brand": "Zoellas Cosmetics",
+      "featured": true,
+      "bestSeller": true,
+      "tags": [
+        "Foundation",
+        "Full Coverage",
+        "Luminous Skin",
+        "HD Makeup"
+      ],
+      "ingredients": "Water, Cyclopentasiloxane, Dimethicone, Glycerin, Silica, Iron Oxides.",
+      "howToUse": "Apply 1–2 pumps with a damp beauty sponge or buffer brush starting from center of face outwards."
+    },
+    {
+      "id": "prod-mu-02",
+      "name": "Full Crease-Proof Hydrating Concealer",
+      "slug": "full-crease-proof-hydrating-concealer",
+      "category": "Makeup",
+      "itemType": "product",
+      "description": "High-pigment serum concealer with caffeine and peptides that disguises dark circles and blemishes for up to 16 hours without settling.",
+      "price": 2800,
+      "images": [
+        "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "stock": 30,
+      "stockCount": 30,
+      "rating": 4.8,
+      "reviews": 32,
+      "brand": "Zoellas Cosmetics",
+      "featured": false,
+      "bestSeller": true,
+      "tags": [
+        "Concealer",
+        "Crease Proof",
+        "Dark Circles"
+      ],
+      "ingredients": "Aqua, Isododecane, Titanium Dioxide, Caffeine, Palmitoyl Tripeptide-1.",
+      "howToUse": "Dot beneath inner eye corners and on spot blemishes. Tap gently with finger or brush."
+    },
+    {
+      "id": "prod-mu-03",
+      "name": "Velvet Matte Long-Stay Lipstick",
+      "slug": "velvet-matte-long-stay-lipstick",
+      "category": "Makeup",
+      "itemType": "product",
+      "description": "Buttery transfer-resistant lipstick loaded with intense pigment in wearable warm nudes, dusty roses, and iconic crimson shades.",
+      "price": 2400,
+      "discountPrice": 2000,
+      "originalPrice": 2400,
+      "images": [
+        "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+      "stock": 50,
+      "stockCount": 50,
+      "rating": 5,
+      "reviews": 62,
+      "brand": "Zoellas Cosmetics",
+      "featured": true,
+      "bestSeller": true,
+      "tags": [
+        "Lipstick",
+        "Velvet Matte",
+        "Long Lasting"
+      ],
+      "ingredients": "Dimethicone, Synthetic Wax, Castor Oil, Vitamin E, Red 7 Lake, Iron Oxides.",
+      "howToUse": "Glide directly over bare lips or line first with matching lip pencil."
+    },
+    {
+      "id": "prod-mu-04",
+      "name": "Glaze & Plump Non-Sticky Lip Gloss",
+      "slug": "glaze-and-plump-non-sticky-lip-gloss",
+      "category": "Makeup",
+      "itemType": "product",
+      "description": "High-shine crystalline gloss packed with ginger root extract and peppermint for a natural, cushiony plump look.",
+      "price": 2100,
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "stock": 28,
+      "stockCount": 28,
+      "rating": 4.7,
+      "reviews": 21,
+      "brand": "Zoellas Cosmetics",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Lip Gloss",
+        "Plumping",
+        "Glass Lips"
+      ],
+      "ingredients": "Polybutene, Mineral Oil, Mentha Piperita Oil, Jojoba Seed Oil, Mica.",
+      "howToUse": "Swipe across lips alone or layer on top of your favorite lipstick."
+    },
+    {
+      "id": "prod-mu-05",
+      "name": "Panoramic Volume & Curl Waterproof Mascara",
+      "slug": "panoramic-volume-curl-waterproof-mascara",
+      "category": "Makeup",
+      "itemType": "product",
+      "description": "Carbon-black curling mascara with hourglass fiber wand that builds theatrical fan volume without flaking or smudging.",
+      "price": 2600,
+      "images": [
+        "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "stock": 35,
+      "stockCount": 35,
+      "rating": 4.9,
+      "reviews": 36,
+      "brand": "Zoellas Cosmetics",
+      "featured": false,
+      "bestSeller": true,
+      "tags": [
+        "Mascara",
+        "Waterproof",
+        "Lash Curl"
+      ],
+      "ingredients": "Isododecane, Cera Alba, Carnauba Wax, Carbon Black, Panthenol.",
+      "howToUse": "Wiggle wand at lash root and sweep upwards through tips."
+    },
+    {
+      "id": "prod-mu-06",
+      "name": "Midnight Precision Waterproof Ink Eyeliner",
+      "slug": "midnight-precision-waterproof-ink-eyeliner",
+      "category": "Makeup",
+      "itemType": "product",
+      "description": "Ultra-fine 0.1mm calligraphy felt tip pen dispensing pitch-black waterproof polymer ink that stays locked through tears and humidity.",
+      "price": 2200,
+      "images": [
+        "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "stock": 40,
+      "stockCount": 40,
+      "rating": 4.9,
+      "reviews": 48,
+      "brand": "Zoellas Cosmetics",
+      "featured": false,
+      "bestSeller": true,
+      "tags": [
+        "Eyeliner",
+        "Liquid Liner",
+        "Waterproof"
+      ],
+      "ingredients": "Aqua, Acrylates Copolymer, Carbon Black, Butylene Glycol.",
+      "howToUse": "Draw along the lash line and flick upwards toward temple for a cat-eye wing."
+    },
+    {
+      "id": "prod-mu-07",
+      "name": "Petal Dew Multi-Use Cream Blush",
+      "slug": "petal-dew-multi-use-cream-blush",
+      "category": "Makeup",
+      "itemType": "product",
+      "description": "Velvety cream-to-powder cheek and lip tint that melts seamlessly to impart a youthful flushed bloom.",
+      "price": 2500,
+      "images": [
+        "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+      "stock": 22,
+      "stockCount": 22,
+      "rating": 4.8,
+      "reviews": 29,
+      "brand": "Zoellas Cosmetics",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Cream Blush",
+        "Cheek Tint",
+        "Dewy Finish"
+      ],
+      "ingredients": "Caprylic/Capric Triglyceride, Mica, Candelilla Wax, Rosehip Seed Oil.",
+      "howToUse": "Dab onto apples of cheeks and blend upwards toward temples with fingers."
+    },
+    {
+      "id": "prod-mu-08",
+      "name": "Champagne Candlelight Baked Highlighter",
+      "slug": "champagne-candlelight-baked-highlighter",
+      "category": "Makeup",
+      "itemType": "product",
+      "description": "Silky micro-milled baked powder featuring champagne and golden pearl micro-particles for an authentic glass skin sheen.",
+      "price": 3200,
+      "images": [
+        "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "stock": 18,
+      "stockCount": 18,
+      "rating": 4.9,
+      "reviews": 34,
+      "brand": "Zoellas Cosmetics",
+      "featured": true,
+      "bestSeller": false,
+      "tags": [
+        "Highlighter",
+        "Baked Powder",
+        "Champagne Glow"
+      ],
+      "ingredients": "Mica, Talc, Squalane, Synthetic Fluorphlogopite, Dimethicone.",
+      "howToUse": "Dust lightly across cheekbones, bridge of nose, and cupid's bow with a fan brush."
+    },
+    {
+      "id": "prod-nail-01",
+      "name": "Pro Gel Couture High-Shine Nail Polish",
+      "slug": "pro-gel-couture-nail-polish",
+      "category": "Nail Care",
+      "itemType": "product",
+      "description": "Long-wear salon gel polish formulated for streak-free opaque coverage with mirror shine without UV lamp requirement.",
+      "price": 1500,
+      "discountPrice": 1250,
+      "images": [
+        "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=800&q=80",
+      "stock": 55,
+      "stockCount": 55,
+      "rating": 4.8,
+      "reviews": 30,
+      "brand": "Nail Atelier",
+      "featured": false,
+      "bestSeller": true,
+      "tags": [
+        "Nail Polish",
+        "Gel Shine",
+        "Long Wear"
+      ],
+      "ingredients": "Ethyl Acetate, Butyl Acetate, Nitrocellulose, Color Pigments.",
+      "howToUse": "Apply base coat, two thin layers of polish, and finish with gel top coat."
+    },
+    {
+      "id": "prod-nail-02",
+      "name": "Complete Home Manicure Care Kit",
+      "slug": "complete-home-manicure-care-kit",
+      "category": "Nail Care",
+      "itemType": "product",
+      "description": "Surgical-grade stainless steel set including precision cuticle nippers, glass nail file, dual pusher, and buffing block in a travel pouch.",
+      "price": 3800,
+      "images": [
+        "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80",
+      "stock": 14,
+      "stockCount": 14,
+      "rating": 4.9,
+      "reviews": 18,
+      "brand": "Nail Atelier",
+      "featured": true,
+      "bestSeller": false,
+      "tags": [
+        "Manicure Kit",
+        "Nail Tools",
+        "Nail Care"
+      ],
+      "ingredients": "High carbon Japanese stainless steel, Crystal tempered glass.",
+      "howToUse": "Use tools to trim, file in one direction, and gently push back cuticles."
+    },
+    {
+      "id": "prod-nail-03",
+      "name": "Calcium Keratin Nail Strengthener & Shield",
+      "slug": "calcium-keratin-nail-strengthener",
+      "category": "Nail Care",
+      "itemType": "product",
+      "description": "Therapeutic hardening clear coat enriched with calcium and keratin to prevent splitting, peeling, and brittle nail breakage.",
+      "price": 1900,
+      "images": [
+        "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=800&q=80",
+      "stock": 27,
+      "stockCount": 27,
+      "rating": 4.7,
+      "reviews": 23,
+      "brand": "Nail Atelier",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Nail Strengthener",
+        "Calcium",
+        "Hardener"
+      ],
+      "ingredients": "Ethyl Acetate, Hydrolyzed Keratin, Calcium Pantothenate.",
+      "howToUse": "Apply one coat every other day for 2 weeks to restore weak nails."
+    },
+    {
+      "id": "prod-nail-04",
+      "name": "Organic Sweet Almond & Jojoba Cuticle Oil",
+      "slug": "organic-sweet-almond-jojoba-cuticle-oil",
+      "category": "Nail Care",
+      "itemType": "product",
+      "description": "Nourishing botanical dropper elixir that softens dry cuticles, prevents hangnails, and conditions nail matrix.",
+      "price": 1600,
+      "images": [
+        "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80",
+      "stock": 35,
+      "stockCount": 35,
+      "rating": 5,
+      "reviews": 40,
+      "brand": "Botanical Haircare",
+      "featured": false,
+      "bestSeller": true,
+      "tags": [
+        "Cuticle Oil",
+        "Almond Oil",
+        "Jojoba"
+      ],
+      "ingredients": "Prunus Amygdalus Dulcis Oil, Simmondsia Chinensis Seed Oil, Tocopherol.",
+      "howToUse": "Dispense 1 drop per nail bed and massage into cuticles daily."
+    },
+    {
+      "id": "prod-nail-05",
+      "name": "Acetone-Free Gentle Nourishing Polish Remover",
+      "slug": "acetone-free-nourishing-polish-remover",
+      "category": "Nail Care",
+      "itemType": "product",
+      "description": "Non-drying soy-derived remover that gently lifts pigmented polishes while conditioning nails with vitamin E.",
+      "price": 1400,
+      "images": [
+        "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=800&q=80",
+      "stock": 32,
+      "stockCount": 32,
+      "rating": 4.6,
+      "reviews": 15,
+      "brand": "Nail Atelier",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Nail Polish Remover",
+        "Acetone Free"
+      ],
+      "ingredients": "Methyl Soyate, Dimethyl Adipate, Sweet Orange Peel Oil.",
+      "howToUse": "Saturate cotton round, hold on nail for 10 seconds, and wipe clean."
+    },
+    {
+      "id": "prod-tool-01",
+      "name": "Ionic Boar Bristle Detangling Hair Brush",
+      "slug": "ionic-boar-bristle-detangling-brush",
+      "category": "Beauty Tools",
+      "itemType": "product",
+      "description": "Natural boar bristles paired with flexible nylon pins on a pneumatic cushion to distribute natural oils from scalp to tips.",
+      "price": 3600,
+      "discountPrice": 3200,
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "stock": 20,
+      "stockCount": 20,
+      "rating": 4.9,
+      "reviews": 27,
+      "brand": "Pro Tools Co.",
+      "featured": true,
+      "bestSeller": true,
+      "tags": [
+        "Hair Brush",
+        "Boar Bristle",
+        "Detangler"
+      ],
+      "ingredients": "Natural Boar Bristles, Eco-Friendly Bamboo Wood Handle.",
+      "howToUse": "Brush through dry hair in long strokes starting from tips up to roots."
+    },
+    {
+      "id": "prod-tool-02",
+      "name": "12-Piece Master Pro Makeup Brush Set",
+      "slug": "12-piece-master-pro-makeup-brush-set",
+      "category": "Beauty Tools",
+      "itemType": "product",
+      "description": "Cruelty-free micro-crystal synthetic brushes with champagne aluminum ferrules and custom velvet travel roll.",
+      "price": 7500,
+      "originalPrice": 8900,
+      "images": [
+        "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=800&q=80",
+      "stock": 15,
+      "stockCount": 15,
+      "rating": 5,
+      "reviews": 42,
+      "brand": "Zoellas Cosmetics",
+      "featured": true,
+      "bestSeller": true,
+      "tags": [
+        "Brush Set",
+        "Makeup Brushes",
+        "Pro Kit"
+      ],
+      "ingredients": "Ultra-Soft Taklon Synthetic Fibers, Wood handles.",
+      "howToUse": "Use specific brushes for foundation, powder, contour, blending, and detailing."
+    },
+    {
+      "id": "prod-tool-03",
+      "name": "Rose Quartz Facial Sculpting Roller & Gua Sha",
+      "slug": "rose-quartz-facial-roller-gua-sha",
+      "category": "Beauty Tools",
+      "itemType": "product",
+      "description": "100% authentic Brazilian rose quartz duo designed to ease facial tension, stimulate lymphatic drainage, and lift contours.",
+      "price": 3200,
+      "images": [
+        "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80",
+      "stock": 24,
+      "stockCount": 24,
+      "rating": 4.8,
+      "reviews": 35,
+      "brand": "Radiance Lab",
+      "featured": false,
+      "bestSeller": true,
+      "tags": [
+        "Gua Sha",
+        "Facial Roller",
+        "Rose Quartz"
+      ],
+      "ingredients": "Natural Grade-A Hand-Carved Rose Quartz Crystal.",
+      "howToUse": "Apply facial oil first, then gently glide the tool outward and upward from jawline to earlobes."
+    },
+    {
+      "id": "prod-tool-04",
+      "name": "Salon Grip Sectioning Hair Clips (Set of 6)",
+      "slug": "salon-grip-sectioning-hair-clips",
+      "category": "Beauty Tools",
+      "itemType": "product",
+      "description": "Alligator-style double-hinged salon clips that grip thick or fine hair without creasing or slipping during styling.",
+      "price": 1200,
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "stock": 50,
+      "stockCount": 50,
+      "rating": 4.7,
+      "reviews": 19,
+      "brand": "Pro Tools Co.",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Hair Clips",
+        "Sectioning",
+        "Salon Tools"
+      ],
+      "ingredients": "Durable Matte Finish Polymer, Stainless Steel Springs.",
+      "howToUse": "Part hair into sections and clamp clip to hold strands securely while blow drying."
+    },
+    {
+      "id": "prod-tool-05",
+      "name": "Cloud Soft Teardrop Beauty Blender Sponge",
+      "slug": "cloud-soft-teardrop-beauty-blender",
+      "category": "Beauty Tools",
+      "itemType": "product",
+      "description": "Ultra-plush latex-free hydrophilic sponge that doubles in size when damp for a streak-free, poreless foundation finish.",
+      "price": 1100,
+      "discountPrice": 950,
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "stock": 60,
+      "stockCount": 60,
+      "rating": 4.9,
+      "reviews": 50,
+      "brand": "Zoellas Cosmetics",
+      "featured": false,
+      "bestSeller": true,
+      "tags": [
+        "Beauty Sponge",
+        "Blender",
+        "Latex Free"
+      ],
+      "ingredients": "Non-Latex Hydrophilic Polyurethane Foam.",
+      "howToUse": "Soak with water, squeeze out excess in a clean towel, and bounce foundation over skin."
+    },
+    {
+      "id": "prod-body-01",
+      "name": "Whipped Shea & Vanilla Cashmere Body Butter",
+      "slug": "whipped-shea-vanilla-cashmere-body-butter",
+      "category": "Body Care",
+      "itemType": "product",
+      "description": "Decadent cloud butter infused with raw Ghanaian shea, cocoa butter, and warm bourbon vanilla that cushions dry skin for 48 hours.",
+      "price": 3400,
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+      "stock": 22,
+      "stockCount": 22,
+      "rating": 4.9,
+      "reviews": 33,
+      "brand": "Botanical Haircare",
+      "featured": true,
+      "bestSeller": false,
+      "tags": [
+        "Body Butter",
+        "Shea Butter",
+        "Vanilla",
+        "Body Care"
+      ],
+      "ingredients": "Butyrospermum Parkii (Shea) Butter, Cocoa Butter, Sweet Almond Oil, Vanilla Extract.",
+      "howToUse": "Smooth generously over damp skin immediately following shower or bath."
+    },
+    {
+      "id": "prod-body-02",
+      "name": "Damascus Rose Pink Himalayan Body Polish",
+      "slug": "damascus-rose-pink-himalayan-body-polish",
+      "category": "Body Care",
+      "itemType": "product",
+      "description": "Coarse mineral salt crystals buffed with rosehip seed oil and organic rose petals to slough away dryness and leave skin silky.",
+      "price": 3200,
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+      "stock": 19,
+      "stockCount": 19,
+      "rating": 4.8,
+      "reviews": 24,
+      "brand": "Botanical Haircare",
+      "featured": false,
+      "bestSeller": true,
+      "tags": [
+        "Body Scrub",
+        "Himalayan Salt",
+        "Rose Body Polish"
+      ],
+      "ingredients": "Sodium Chloride (Himalayan Pink Salt), Rosa Moschata Seed Oil, Vitamin E.",
+      "howToUse": "Massage gently in circular motions over damp skin in the shower, then rinse."
+    },
+    {
+      "id": "prod-body-03",
+      "name": "Golden Shimmer Dry Body Oil Elixir",
+      "slug": "golden-shimmer-dry-body-oil-elixir",
+      "category": "Body Care",
+      "itemType": "product",
+      "description": "Non-greasy dry oil featuring multidimensional gold and bronze pearl flakes to highlight collarbones, shoulders, and legs.",
+      "price": 3800,
+      "images": [
+        "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80",
+      "stock": 25,
+      "stockCount": 25,
+      "rating": 5,
+      "reviews": 38,
+      "brand": "Zoellas Atelier",
+      "featured": true,
+      "bestSeller": true,
+      "tags": [
+        "Shimmer Oil",
+        "Body Glow",
+        "Golden Shimmer"
+      ],
+      "ingredients": "Caprylic/Capric Triglyceride, Jojoba Oil, Gold Pearl Powder, Fragrance.",
+      "howToUse": "Shake well and smooth over décolletage, arms, and legs for a sunlit glow."
+    },
+    {
+      "id": "prod-body-04",
+      "name": "Eucalyptus & Mint Revitalizing Foot Cream",
+      "slug": "eucalyptus-mint-revitalizing-foot-cream",
+      "category": "Body Care",
+      "itemType": "product",
+      "description": "Intense 20% urea and tea tree formula designed to soften rough cracked heels and soothe tired salon-fatigued feet.",
+      "price": 2100,
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+      "stock": 28,
+      "stockCount": 28,
+      "rating": 4.7,
+      "reviews": 16,
+      "brand": "Dermacare Studio",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Foot Cream",
+        "Cracked Heels",
+        "Urea 20%"
+      ],
+      "ingredients": "Aqua, Urea 20%, Eucalyptus Globulus Leaf Oil, Melaleuca Alternifolia Oil.",
+      "howToUse": "Massage onto heels and feet every evening before bed; wear cotton socks overnight."
+    },
+    {
+      "id": "prod-body-05",
+      "name": "Velvet Silk Hand & Cuticle Balm",
+      "slug": "velvet-silk-hand-cuticle-balm",
+      "category": "Body Care",
+      "itemType": "product",
+      "description": "Quick-absorbing barrier cream featuring oat extract and marula oil that withstands multiple handwashes.",
+      "price": 1800,
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+      "stock": 35,
+      "stockCount": 35,
+      "rating": 4.8,
+      "reviews": 21,
+      "brand": "Dermacare Studio",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Hand Cream",
+        "Cuticle Balm",
+        "Moisturizing"
+      ],
+      "ingredients": "Avena Sativa (Oat) Kernel Flour, Sclerocarya Birrea Seed Oil, Glycerin.",
+      "howToUse": "Massage into palms and nail beds whenever hands feel dry."
+    },
+    {
+      "id": "prod-ess-01",
+      "name": "All-Day Matte Makeup Setting Spray",
+      "slug": "all-day-matte-makeup-setting-spray",
+      "category": "Salon Essentials",
+      "itemType": "product",
+      "description": "Micro-fine setting aerosol mist that seals base makeup against heat, sweat, and humidity for 24-hour editorial wear.",
+      "price": 2900,
+      "discountPrice": 2500,
+      "originalPrice": 2900,
+      "images": [
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "stock": 45,
+      "stockCount": 45,
+      "rating": 4.9,
+      "reviews": 54,
+      "brand": "Zoellas Cosmetics",
+      "featured": true,
+      "bestSeller": true,
+      "tags": [
+        "Setting Spray",
+        "Long Lasting",
+        "Humidity Proof"
+      ],
+      "ingredients": "Water, Alcohol Denat., PVP, Dimethicone PEG-7 Phosphate, Niacinamide.",
+      "howToUse": "Hold bottle 8–10 inches from face and mist in an \"X\" and \"T\" motion."
+    },
+    {
+      "id": "prod-ess-02",
+      "name": "3D Faux Mink Wispy Bridal Lash Set",
+      "slug": "3d-faux-mink-wispy-bridal-lashes",
+      "category": "Salon Essentials",
+      "itemType": "product",
+      "description": "Handcrafted multi-layered silk fiber lashes on a flexible black cotton band, reusable up to 25 times with proper care.",
+      "price": 1800,
+      "images": [
+        "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "stock": 60,
+      "stockCount": 60,
+      "rating": 5,
+      "reviews": 67,
+      "brand": "Zoellas Cosmetics",
+      "featured": true,
+      "bestSeller": true,
+      "tags": [
+        "Lashes",
+        "Faux Mink",
+        "Bridal Lashes",
+        "Reusable"
+      ],
+      "ingredients": "100% Premium Korean Silk Fibers, Soft Cotton Band.",
+      "howToUse": "Trim to fit eye length, apply lash adhesive, wait 30 seconds, and place at lash line."
+    },
+    {
+      "id": "prod-ess-03",
+      "name": "Express Clean Brush Sanitizing Cleansing Spray",
+      "slug": "express-clean-brush-sanitizing-spray",
+      "category": "Salon Essentials",
+      "itemType": "product",
+      "description": "Instant rinse-free cosmetic brush disinfectant that dissolves pigments, bacteria, and oils while drying in seconds.",
+      "price": 1900,
+      "images": [
+        "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=800&q=80",
+      "stock": 30,
+      "stockCount": 30,
+      "rating": 4.8,
+      "reviews": 25,
+      "brand": "Pro Tools Co.",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Brush Cleaner",
+        "Sanitizer",
+        "Fast Dry"
+      ],
+      "ingredients": "Isopropyl Alcohol, Cyclopentasiloxane, Melaleuca Alternifolia Leaf Oil.",
+      "howToUse": "Spray onto paper towel and swirl brush head until clean."
+    },
+    {
+      "id": "prod-ess-04",
+      "name": "Translucent Micro-Fine Blur Setting Powder",
+      "slug": "translucent-micro-fine-blur-setting-powder",
+      "category": "Salon Essentials",
+      "itemType": "product",
+      "description": "Featherlight cornstarch-based setting powder that blurs pores and locks foundation with zero camera flashback in photographs.",
+      "price": 3100,
+      "images": [
+        "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "stock": 26,
+      "stockCount": 26,
+      "rating": 4.9,
+      "reviews": 43,
+      "brand": "Zoellas Cosmetics",
+      "featured": false,
+      "bestSeller": true,
+      "tags": [
+        "Translucent Powder",
+        "No Flashback",
+        "Oil Control"
+      ],
+      "ingredients": "Zea Mays (Corn) Starch, Silica, Magnesium Stearate, Caprylyl Glycol.",
+      "howToUse": "Press into T-zone using a velour powder puff to bake or set liquid foundation."
+    },
+    {
+      "id": "prod-ess-05",
+      "name": "Waterproof Lash Adhesive with Biotin",
+      "slug": "waterproof-lash-adhesive-with-biotin",
+      "category": "Salon Essentials",
+      "itemType": "product",
+      "description": "Latex-free clear-drying lash adhesive enriched with biotin for sensitive eyes, holding false lashes secure for up to 24 hours.",
+      "price": 1300,
+      "images": [
+        "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+      ],
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "stock": 50,
+      "stockCount": 50,
+      "rating": 4.9,
+      "reviews": 31,
+      "brand": "Zoellas Cosmetics",
+      "featured": false,
+      "bestSeller": false,
+      "tags": [
+        "Lash Glue",
+        "Waterproof",
+        "Latex Free"
+      ],
+      "ingredients": "Acrylates/Ethylhexyl Acrylate Copolymer, Aqua, Biotin.",
+      "howToUse": "Apply thin line to lash band, wait 20 seconds to become tacky, then place along lash line."
+    }
+  ],
+  "services": [
+    {
+      "id": "srv-hair-01",
+      "name": "Precision Hair Cut & Blow Dry",
+      "slug": "precision-hair-cut-blow-dry",
+      "category": "Hair",
+      "description": "Bespoke precision cutting customized to your facial structure, followed by signature thermal styling and volumizing blowout.",
+      "duration": "45 mins",
+      "price": 3500,
+      "originalPrice": 4200,
+      "benefits": [
+        "Frame face contours",
+        "Eliminate split ends",
+        "Long-lasting salon bounce"
+      ],
+      "prep": "Arrive with unwashed or lightly washed hair. Consultation precedes washing.",
+      "aftercare": "Avoid heavy oils for 24 hours to preserve blowout volume.",
+      "image": "https://images.unsplash.com/photo-1560869713-7d0a29430803?auto=format&fit=crop&w=800&q=80",
+      "featured": true,
+      "popular": true
+    },
+    {
+      "id": "srv-hair-02",
+      "name": "Organic Keratin Protein Infusion",
+      "slug": "organic-keratin-protein-infusion",
+      "category": "Hair",
+      "description": "Formaldehyde-free organic smoothing treatment that eliminates frizz, seals cuticles, and restores mirror-like shine for up to 4 months.",
+      "duration": "2.5 hours",
+      "price": 18500,
+      "originalPrice": 22000,
+      "benefits": [
+        "Zero frizz in humidity",
+        "Dramatic drying time reduction",
+        "Deep keratin rebuilding"
+      ],
+      "prep": "Do not oil or color hair 3 days prior to the treatment.",
+      "aftercare": "Use only sulfate-free shampoo. Do not tie hair for 48 hours post treatment.",
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "featured": true,
+      "popular": true
+    },
+    {
+      "id": "srv-hair-03",
+      "name": "Dimensional Balayage & Glossing",
+      "slug": "dimensional-balayage-glossing",
+      "category": "Hair",
+      "description": "Hand-painted sun-kissed ribbons paired with acidic color glaze to add multidimensional warmth and seamless grow-out.",
+      "duration": "3 hours",
+      "price": 16000,
+      "originalPrice": 19000,
+      "benefits": [
+        "Seamless, low-maintenance grow out",
+        "Custom color tones",
+        "High-shine gloss coat"
+      ],
+      "prep": "Avoid shampooing hair 24 hours prior to appointment.",
+      "aftercare": "Wash hair with color-safe cold water and apply purple toner mask weekly.",
+      "image": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?auto=format&fit=crop&w=800&q=80",
+      "featured": false,
+      "popular": true
+    },
+    {
+      "id": "srv-hair-04",
+      "name": "Intense Moisture Hair Spa & Ozone Scalp Therapy",
+      "slug": "intense-moisture-hair-spa",
+      "category": "Hair",
+      "description": "Deep conditioning argan-butter steam masque coupled with micro-mist ozone stimulation to detoxify follicles.",
+      "duration": "60 mins",
+      "price": 4500,
+      "benefits": [
+        "Scalp circulation boost",
+        "Restored hair elasticity",
+        "Stress-relief head massage"
+      ],
+      "prep": "No special preparation needed.",
+      "aftercare": "Avoid direct high-heat styling for 48 hours.",
+      "image": "https://images.unsplash.com/photo-1582095133179-bfd08e2fc6b3?auto=format&fit=crop&w=800&q=80",
+      "featured": false,
+      "popular": false
+    },
+    {
+      "id": "srv-skin-01",
+      "name": "Signature Hydro-Oxygen Infusion Facial",
+      "slug": "signature-hydro-oxygen-infusion-facial",
+      "category": "Skin",
+      "description": "Deep vortex pore extraction, lactic acid exfoliation, and pressurized 98% pure oxygen serum infusion for instant glass-skin radiance.",
+      "duration": "75 mins",
+      "price": 8500,
+      "originalPrice": 10500,
+      "benefits": [
+        "Immediate dewy glow",
+        "Deep blackhead extraction",
+        "Plumped fine lines"
+      ],
+      "prep": "Avoid active retinol or exfoliating acids 3 days prior.",
+      "aftercare": "Wear SPF 50 daily and avoid heavy foundation makeup for 24 hours.",
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80",
+      "featured": true,
+      "popular": true
+    },
+    {
+      "id": "srv-skin-02",
+      "name": "24K Gold Cellular Rejuvenation Facial",
+      "slug": "24k-gold-cellular-rejuvenation-facial",
+      "category": "Skin",
+      "description": "Luxury gold-leaf sheets pressed into collagen peptide emulsions to stimulate cellular regeneration and firm skin contours.",
+      "duration": "90 mins",
+      "price": 12000,
+      "benefits": [
+        "Youthful bounce and lift",
+        "Enhanced microcirculation",
+        "Luxury bridal skin prep"
+      ],
+      "prep": "Hydrate well before appointment.",
+      "aftercare": "Keep skin moisturized and avoid direct steam baths for 48 hours.",
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "featured": true,
+      "popular": false
+    },
+    {
+      "id": "srv-skin-03",
+      "name": "Derma-Clear Acne Clarifying Treatment",
+      "slug": "derma-clear-acne-clarifying-treatment",
+      "category": "Skin",
+      "description": "Salicylic purification, high-frequency antibacterial therapy, and blue LED light mask to calm active breakouts and calm redness.",
+      "duration": "60 mins",
+      "price": 6500,
+      "benefits": [
+        "Calm active cystic blemishes",
+        "Tighten enlarged pores",
+        "Target acne-causing bacteria"
+      ],
+      "prep": "Do not squeeze or pop blemishes before treatment.",
+      "aftercare": "Use gentle non-comedogenic cleanser and avoid touching the face.",
+      "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=800&q=80",
+      "featured": false,
+      "popular": true
+    },
+    {
+      "id": "srv-mu-01",
+      "name": "Signature Evening Party Glamour",
+      "slug": "signature-evening-party-glamour",
+      "category": "Makeup",
+      "description": "High-definition flawless base, customized cut-crease or smokey eye artistry, mink lash application, and sculpted contouring.",
+      "duration": "75 mins",
+      "price": 9500,
+      "originalPrice": 11000,
+      "benefits": [
+        "Sweat and transfer-resistant base",
+        "Custom eye style for your outfit",
+        "Lashes and setting mist included"
+      ],
+      "prep": "Arrive with a cleansed face and your chosen party outfit or swatch.",
+      "aftercare": "Use an oil-based dual-phase makeup remover for gentle cleansing.",
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=800&q=80",
+      "featured": true,
+      "popular": true
+    },
+    {
+      "id": "srv-mu-02",
+      "name": "Soft Glam Minimalist Glow",
+      "slug": "soft-glam-minimalist-glow",
+      "category": "Makeup",
+      "description": "Luminous skin-first finish with feathered brows, subtle brown-winged definition, cream blush wash, and glazed nude lips.",
+      "duration": "60 mins",
+      "price": 7500,
+      "benefits": [
+        "Natural lit-from-within glow",
+        "Weightless camera-ready finish",
+        "Ideal for daytime events and nikkah"
+      ],
+      "prep": "Cleanse and apply light moisturizer.",
+      "aftercare": "Standard gentle makeup removal.",
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "featured": false,
+      "popular": true
+    },
+    {
+      "id": "srv-br-01",
+      "name": "Barat Master Bridal Luxury Package",
+      "slug": "barat-master-bridal-luxury-package",
+      "category": "Bridal",
+      "description": "Complete royal bridal experience including 24-hour HD base, bespoke heavy traditional or modern eye makeup, premium lashes, dupatta setting, jewelry placement, and intricate bridal hair updo.",
+      "duration": "3.5 hours",
+      "price": 45000,
+      "originalPrice": 52000,
+      "benefits": [
+        "Flawless 16+ hour photography wear",
+        "Dupatta and heavy veil pinning included",
+        "Jewelry and hair ornaments fixing"
+      ],
+      "prep": "Wear a button-down shirt. Bring jewelry, dupatta, and hair accessories.",
+      "aftercare": "Carefully unpin hair ornaments before brushing.",
+      "image": "https://images.unsplash.com/photo-1595959183082-7b570b7e08e2?auto=format&fit=crop&w=800&q=80",
+      "featured": true,
+      "popular": true
+    },
+    {
+      "id": "srv-br-02",
+      "name": "Walima & Reception Ethereal Bridal Package",
+      "slug": "walima-reception-ethereal-bridal-package",
+      "category": "Bridal",
+      "description": "Modern pastel and champagne glow aesthetic with shimmer lids, sculpted dewy complexion, voluminous Hollywood waves or textured chignon.",
+      "duration": "3 hours",
+      "price": 40000,
+      "benefits": [
+        "Soft metallic bridal eye styling",
+        "Hydrating luminous finish",
+        "Veil styling and bridal touch-up kit"
+      ],
+      "prep": "Wash hair night before without conditioner near roots.",
+      "aftercare": "Gentle micellar oil cleanse.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+      "featured": true,
+      "popular": false
+    },
+    {
+      "id": "srv-nail-01",
+      "name": "Russian Gel Manicure & Botanical Spa",
+      "slug": "russian-gel-manicure-botanical-spa",
+      "category": "Nails",
+      "description": "E-file cuticle perfection, rosehip salt exfoliation, warm lavender mask, and chip-free gel polish lasting 3+ weeks.",
+      "duration": "60 mins",
+      "price": 3800,
+      "originalPrice": 4500,
+      "benefits": [
+        "Impeccably clean cuticle lines",
+        "High gloss chip-proof polish",
+        "Intensive hand softening"
+      ],
+      "prep": "Please do not cut your own cuticles prior to the session.",
+      "aftercare": "Apply cuticle oil daily at bedtime.",
+      "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=800&q=80",
+      "featured": false,
+      "popular": true
+    },
+    {
+      "id": "srv-nail-02",
+      "name": "Apres Gel-X Sculpted Extensions & Chrome Art",
+      "slug": "apres-gel-x-sculpted-extensions",
+      "category": "Nails",
+      "description": "100% soak-off soft gel full-cover tips customized in coffin, almond, or stiletto, paired with glazed donut or 3D chrome art.",
+      "duration": "90 mins",
+      "price": 6500,
+      "benefits": [
+        "Zero natural nail damage",
+        "Lightweight strong extensions",
+        "Trendy glazed chrome finish"
+      ],
+      "prep": "Remove previous acrylics or extensions if any.",
+      "aftercare": "Avoid using nails as tools to open cans or boxes.",
+      "image": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80",
+      "featured": false,
+      "popular": true
+    },
+    {
+      "id": "srv-care-01",
+      "name": "Rose & Jasmine Full Body Glow Polish",
+      "slug": "rose-jasmine-full-body-glow-polish",
+      "category": "Beauty Care",
+      "description": "Exfoliating pink Himalayan salt crystals infused with Damascus rose and cold-pressed almond oil to unveil silky smooth, supple skin.",
+      "duration": "75 mins",
+      "price": 9000,
+      "benefits": [
+        "Full body skin softening",
+        "Sloughs away dry winter dullness",
+        "Aromatherapeutic relaxation"
+      ],
+      "prep": "Do not shave or wax on the same day.",
+      "aftercare": "Moisturize generously and drink plenty of water.",
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "featured": false,
+      "popular": false
+    },
+    {
+      "id": "srv-care-02",
+      "name": "Silk Threading & Brow Architecture",
+      "slug": "silk-threading-brow-architecture",
+      "category": "Beauty Care",
+      "description": "Precision mapping and organic silk thread shaping to sculpt the optimal arch suited for your eye shape.",
+      "duration": "25 mins",
+      "price": 800,
+      "benefits": [
+        "Clean defined eyebrow arch",
+        "Gentle on sensitive facial skin",
+        "Quick and precise"
+      ],
+      "prep": "Let brows grow out for at least 2 weeks.",
+      "aftercare": "Apply soothing aloe vera gel.",
+      "image": "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?auto=format&fit=crop&w=800&q=80",
+      "featured": false,
+      "popular": true
+    },
+    {
+      "id": "srv-oth-01",
+      "name": "Organic Brazilian Waxing Experience",
+      "slug": "organic-brazilian-waxing-experience",
+      "category": "Other Salon Services",
+      "description": "Hypoallergenic chamomile hard stripless wax applied at low temperatures for minimal discomfort and smooth results.",
+      "duration": "45 mins",
+      "price": 4500,
+      "benefits": [
+        "Gentle stripless wax",
+        "Leaves skin calm and smooth",
+        "Hair regrows softer over time"
+      ],
+      "prep": "Hair should be at least grain of rice length (1/4 inch).",
+      "aftercare": "Avoid hot showers and synthetic tight clothing for 24 hours.",
+      "image": "https://images.unsplash.com/photo-1519415943484-9fa1873496d4?auto=format&fit=crop&w=800&q=80",
+      "featured": false,
+      "popular": false
+    },
+    {
+      "id": "srv-oth-02",
+      "name": "Hydrating Botanical Foot Reflexology Pedicure",
+      "slug": "hydrating-botanical-foot-reflexology-pedicure",
+      "category": "Other Salon Services",
+      "description": "Eucalyptus hydro-soak, callus smoothing, dead sea salt scrub, and 20 minutes of pressure point foot reflexology.",
+      "duration": "60 mins",
+      "price": 3500,
+      "benefits": [
+        "Tired feet revival",
+        "Deep heel callus smoothing",
+        "Reflexology tension release"
+      ],
+      "prep": "Wear loose trousers that easily roll up to the knee.",
+      "aftercare": "Keep feet moisturized with rich balm.",
+      "image": "https://images.unsplash.com/photo-1519415943484-9fa1873496d4?auto=format&fit=crop&w=800&q=80",
+      "featured": false,
+      "popular": false
+    }
+  ],
+  "offers": [
+    {
+      "id": "off-01",
+      "title": "Bridal Radiance Master Package",
+      "slug": "bridal-radiance-master-package",
+      "description": "Comprehensive royal bridal preparation including Barat HD makeover, dupatta & jewelry placement, plus 24K Gold Cellular facial.",
+      "includedServices": [
+        "Barat Master Bridal Makeup",
+        "24K Gold Facial",
+        "Dupatta & Jewelry Setting",
+        "Lashes & Setting Mist"
+      ],
+      "originalPrice": 57000,
+      "offerPrice": 48000,
+      "discountPercent": 15,
+      "validity": "Valid through 2026 bridal season",
+      "image": "https://images.unsplash.com/photo-1595959183082-7b570b7e08e2?auto=format&fit=crop&w=800&q=80",
+      "badge": "Most Popular",
+      "isDemoNotice": "Promotional offer structure. Call 03111802834 to verify package availability."
+    },
+    {
+      "id": "off-02",
+      "title": "Party Glamour & Blowout Duo",
+      "slug": "party-glamour-blowout-duo",
+      "description": "Complete celebration readiness with signature evening glam makeup, mink lashes, and bouncy volume thermal blowout.",
+      "includedServices": [
+        "Signature Evening Glam",
+        "Lash Application",
+        "Precision Hair Blowout",
+        "Touch-Up Kit"
+      ],
+      "originalPrice": 13000,
+      "offerPrice": 10500,
+      "discountPercent": 19,
+      "validity": "Weekend & Weekday Bookings",
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=800&q=80",
+      "badge": "Trending Combo"
+    },
+    {
+      "id": "off-03",
+      "title": "Keratin Smoothing & Hair Spa Ritual",
+      "slug": "keratin-smoothing-hair-spa-ritual",
+      "description": "Formaldehyde-free organic keratin protein transformation coupled with nourishing post-treatment argan butter mask.",
+      "includedServices": [
+        "Organic Keratin Smoothing",
+        "Hair Spa Mask",
+        "Split Ends Trim",
+        "Aftercare Consultation"
+      ],
+      "originalPrice": 23000,
+      "offerPrice": 18500,
+      "discountPercent": 20,
+      "validity": "Limited Salon Slots",
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "badge": "Hair Favorite"
+    },
+    {
+      "id": "off-04",
+      "title": "Hydro-Oxygen Glow & Derma Care",
+      "slug": "hydro-oxygen-glow-derma-care",
+      "description": "Intense skin rejuvenation featuring pore extraction, micro-dermabrasion, pure oxygen infusion, and calming LED mask.",
+      "includedServices": [
+        "Hydro-Oxygen Facial",
+        "Enzyme Peel",
+        "Blue/Red LED Therapy",
+        "Collagen Neck Masque"
+      ],
+      "originalPrice": 11500,
+      "offerPrice": 8900,
+      "discountPercent": 22,
+      "validity": "Monthly Skin Reset",
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80",
+      "badge": "Best Value Skin"
+    },
+    {
+      "id": "off-05",
+      "title": "Deluxe Mani-Pedi & Botanical Polish",
+      "slug": "deluxe-mani-pedi-botanical-polish",
+      "description": "Russian gel manicure and eucalyptus reflexology pedicure combined with paraffin wax hydration treatment.",
+      "includedServices": [
+        "Russian Gel Manicure",
+        "Reflexology Pedicure",
+        "Paraffin Wax Wrap",
+        "Gel Polish of Choice"
+      ],
+      "originalPrice": 7300,
+      "offerPrice": 5800,
+      "discountPercent": 20,
+      "validity": "All Week Long",
+      "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=800&q=80",
+      "badge": "Pamper Combo"
+    },
+    {
+      "id": "off-06",
+      "title": "Full Day Ultimate Salon Retreat",
+      "slug": "full-day-ultimate-salon-retreat",
+      "description": "A 4-hour immersive self-care escape featuring hydro-facial, hair spa, Russian gel nails, full body rose polish, and brow shaping.",
+      "includedServices": [
+        "Hydro-Oxygen Facial",
+        "Intense Hair Spa",
+        "Russian Gel Nails",
+        "Full Body Glow Scrub",
+        "Brow Shaping"
+      ],
+      "originalPrice": 28000,
+      "offerPrice": 22000,
+      "discountPercent": 21,
+      "validity": "Advance Booking Required",
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "badge": "Luxury Escape"
+    }
+  ],
+  "blog": [
+    {
+      "id": "blog-01",
+      "title": "How to Prepare Your Skin for Flawless Bridal Makeup",
+      "slug": "prepare-skin-for-flawless-bridal-makeup",
+      "featuredImage": "https://images.unsplash.com/photo-1595959183082-7b570b7e08e2?auto=format&fit=crop&w=800&q=80",
+      "category": "Skin Care",
+      "date": "March 14, 2026",
+      "author": "Zoellas Beauty Editorial",
+      "summary": "The secret to radiant wedding day makeup begins 4 to 8 weeks before the event with barrier care, gentle hydration, and targeted facials.",
+      "content": "\nWhen brides step into Zoellas Beauty Salon on Tariq Road, Karachi, their most frequent question is: \"How do I make my makeup stay flawless all day?\" \n\nThe true secret lies in what happens weeks before the brushes ever touch your face.\n\n1. Consistent Hydration:\nDrinking 2.5 liters of water daily keeps skin plump from within. Pair this with a multi-molecular hyaluronic acid serum applied on damp skin.\n\n2. Avoid Last-Minute Experiments:\nNever try aggressive chemical peels or new active retinol products less than 3 weeks before your wedding date. Stick to barrier-repairing ceramides and gentle hydro-facials.\n\n3. Professional Exfoliation Timeline:\nSchedule your final hydro-oxygen facial approximately 4 to 5 days before your Barat or Nikkah. This allows all extractions to calm and reveals fresh glowing skin ready to grip HD foundation.\n    ",
+      "readTime": "4 min read",
+      "tags": [
+        "Bridal Skin",
+        "Wedding Prep",
+        "Facial Care"
+      ],
+      "image": "https://images.unsplash.com/photo-1595959183082-7b570b7e08e2?auto=format&fit=crop&w=800&q=80",
+      "excerpt": "The secret to radiant wedding day makeup begins 4 to 8 weeks before the event with barrier care, gentle hydration, and targeted facials."
+    },
+    {
+      "id": "blog-02",
+      "title": "Combatting Humidity & Frizz: Karachi Hair Survival Guide",
+      "slug": "combatting-humidity-frizz-karachi-hair-guide",
+      "featuredImage": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "category": "Hair Care",
+      "date": "March 10, 2026",
+      "author": "Zoellas Beauty Editorial",
+      "summary": "Karachi coastal humidity can instantly deflate blowouts and induce frizz. Here is how professional keratin and sealant serums preserve your sleek look.",
+      "content": "\nLiving in a coastal city like Karachi means high atmospheric moisture that penetrates open hair cuticles, causing instant puffiness.\n\nKey steps for frizz control:\n- Always use sulfate-free shampoo to preserve the natural lipid layer.\n- Seal with argan oil or silicone-based serums while hair is still 80% damp.\n- Consider an organic keratin protein infusion for 3 to 4 months of weather-resistant sleekness.\n    ",
+      "readTime": "5 min read",
+      "tags": [
+        "Frizz Control",
+        "Keratin",
+        "Karachi Beauty"
+      ],
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "excerpt": "Karachi coastal humidity can instantly deflate blowouts and induce frizz. Here is how professional keratin and sealant serums preserve your sleek look."
+    },
+    {
+      "id": "blog-03",
+      "title": "The Modern Monochromatic Makeup Trend Demystified",
+      "slug": "modern-monochromatic-makeup-trend",
+      "featuredImage": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=800&q=80",
+      "category": "Makeup",
+      "date": "March 05, 2026",
+      "author": "Zoellas Beauty Editorial",
+      "summary": "Using harmonized tones of terracotta, rose, or warm peach across eyes, cheeks, and lips creates effortless editorial sophistication.",
+      "content": "\nMonochromatic styling is one of the most requested looks in salon makeup today. By choosing a single hue family—such as warm dusty rose or soft peach—and diffusing it across your eyelids, cheekbones, and lips, you achieve a harmonious, high-fashion aesthetic.\n    ",
+      "readTime": "3 min read",
+      "tags": [
+        "Makeup Trends",
+        "Soft Glam",
+        "Monochromatic"
+      ],
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=800&q=80",
+      "excerpt": "Using harmonized tones of terracotta, rose, or warm peach across eyes, cheeks, and lips creates effortless editorial sophistication."
+    },
+    {
+      "id": "blog-04",
+      "title": "Why Russian Gel Manicures Last 3x Longer Than Traditional Polish",
+      "slug": "why-russian-gel-manicures-last-longer",
+      "featuredImage": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=800&q=80",
+      "category": "Nail Care",
+      "date": "February 28, 2026",
+      "author": "Zoellas Beauty Editorial",
+      "summary": "Discover the precision dry electric-file technique that cleans cuticles deeply and allows color application right under the eponychium fold.",
+      "content": "\nUnlike traditional manicures that soak fingers in water, a Russian manicure is performed completely dry with specialized micro-diamond bits. This allows the nail technician to clean the cuticle perimeter without causing the nail plate to swell, resulting in polish that remains pristine for over 3 weeks.\n    ",
+      "readTime": "4 min read",
+      "tags": [
+        "Nails",
+        "Russian Manicure",
+        "Gel Polish"
+      ],
+      "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=800&q=80",
+      "excerpt": "Discover the precision dry electric-file technique that cleans cuticles deeply and allows color application right under the eponychium fold."
+    },
+    {
+      "id": "blog-05",
+      "title": "The Difference Between Hydrating vs. Moisturizing Your Skin",
+      "slug": "difference-between-hydrating-vs-moisturizing",
+      "featuredImage": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80",
+      "category": "Skin Care",
+      "date": "February 22, 2026",
+      "author": "Zoellas Beauty Editorial",
+      "summary": "Hydration injects water into skin cells; moisturization seals that water in. Learn how to layer both for a permanent dewy finish.",
+      "content": "\nIf your skin still feels tight despite using heavy creams, you may be confusing hydration with moisturization. Hydrators like glycerin and hyaluronic acid attract water, whereas moisturizers like shea butter, squalane, and ceramides create a protective seal to keep that moisture from evaporating.\n    ",
+      "readTime": "4 min read",
+      "tags": [
+        "Skincare Science",
+        "Hydration",
+        "Moisturizer"
+      ],
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80",
+      "excerpt": "Hydration injects water into skin cells; moisturization seals that water in. Learn how to layer both for a permanent dewy finish."
+    },
+    {
+      "id": "blog-06",
+      "title": "Heat Protection 101: Never Skip This Critical Styling Step",
+      "slug": "heat-protection-101-never-skip-styling-step",
+      "featuredImage": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "category": "Hair Care",
+      "date": "February 15, 2026",
+      "author": "Zoellas Beauty Editorial",
+      "summary": "Applying curling wands directly to unshielded strands literally boils the hair cortex. Here is how thermal polymer shields prevent split ends.",
+      "content": "\nHeat styling above 180°C weakens the keratin bonds that give hair its strength. Thermal defense sprays create a heat-dispersing buffer on the surface of the hair shaft, distributing temperature evenly and minimizing protein denaturing.\n    ",
+      "readTime": "3 min read",
+      "tags": [
+        "Heat Defense",
+        "Hair Health",
+        "Salon Styling"
+      ],
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "excerpt": "Applying curling wands directly to unshielded strands literally boils the hair cortex. Here is how thermal polymer shields prevent split ends."
+    },
+    {
+      "id": "blog-07",
+      "title": "Eye Shape Analysis: Which Eyeliner Wing Suits You Best?",
+      "slug": "eye-shape-analysis-eyeliner-wing-guide",
+      "featuredImage": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "category": "Makeup",
+      "date": "February 08, 2026",
+      "author": "Zoellas Beauty Editorial",
+      "summary": "From hooded lids to almond and round eyes, customizing the thickness and angle of your eyeliner transforms your gaze.",
+      "content": "\nA classic flick that looks stunning on an almond eye may disappear completely when hooded eyes open. Learn the bat-wing technique and tightlining tricks to accentuate your natural eye shape.\n    ",
+      "readTime": "5 min read",
+      "tags": [
+        "Eyeliner",
+        "Makeup Guide",
+        "Eye Shapes"
+      ],
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "excerpt": "From hooded lids to almond and round eyes, customizing the thickness and angle of your eyeliner transforms your gaze."
+    },
+    {
+      "id": "blog-08",
+      "title": "Post-Waxing Care: How to Prevent Ingrown Hairs & Redness",
+      "slug": "post-waxing-care-prevent-ingrown-hairs",
+      "featuredImage": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "category": "Beauty Care",
+      "date": "January 29, 2026",
+      "author": "Zoellas Beauty Editorial",
+      "summary": "The first 48 hours following a waxing session require loose breathable fabrics, soothing aloe vera, and zero hot showers.",
+      "content": "\nWaxing leaves hair follicles open and vulnerable to bacteria and friction. Avoid swimming pools, heavy workouts, and sauna heat for 24 to 48 hours. After 3 days, begin gentle physical or chemical exfoliation with lactic acid to keep follicles clear.\n    ",
+      "readTime": "3 min read",
+      "tags": [
+        "Waxing",
+        "Body Care",
+        "Aftercare"
+      ],
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "excerpt": "The first 48 hours following a waxing session require loose breathable fabrics, soothing aloe vera, and zero hot showers."
+    },
+    {
+      "id": "blog-09",
+      "title": "The Science Behind Gua Sha and Lymphatic Drainage",
+      "slug": "science-behind-gua-sha-lymphatic-drainage",
+      "featuredImage": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80",
+      "category": "Beauty Tips",
+      "date": "January 20, 2026",
+      "author": "Zoellas Beauty Editorial",
+      "summary": "Gentle facial scraping with rose quartz stimulates stagnant lymph fluids towards collarbone nodes, de-puffing morning swelling.",
+      "content": "\nUnlike a deep tissue massage, lymphatic drainage requires feather-light pressure at a 15-degree angle. By directing fluids downward along the neck, you encourage natural detoxification and reduce facial puffiness.\n    ",
+      "readTime": "4 min read",
+      "tags": [
+        "Gua Sha",
+        "Facial Tools",
+        "Lymphatic Drainage"
+      ],
+      "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80",
+      "excerpt": "Gentle facial scraping with rose quartz stimulates stagnant lymph fluids towards collarbone nodes, de-puffing morning swelling."
+    },
+    {
+      "id": "blog-10",
+      "title": "How to Extend the Lifespan of Your False Lashes",
+      "slug": "extend-lifespan-of-false-lashes",
+      "featuredImage": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "category": "Salon Essentials",
+      "date": "January 12, 2026",
+      "author": "Zoellas Beauty Editorial",
+      "summary": "Quality faux mink lashes can be worn up to 25 times if you clean the adhesive band with micellar water and store them in their original mold.",
+      "content": "\nNever apply mascara directly onto luxury mink lashes. Instead, coat your natural lashes first, wait for them to dry, and then affix the falsies. When removing, peel gently from the outer corner and dissolve excess glue with oil-free micellar water.\n    ",
+      "readTime": "3 min read",
+      "tags": [
+        "Lashes",
+        "Bridal Essentials",
+        "Lash Care"
+      ],
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "excerpt": "Quality faux mink lashes can be worn up to 25 times if you clean the adhesive band with micellar water and store them in their original mold."
+    },
+    {
+      "id": "blog-11",
+      "title": "Why Scalp Health is the Real Secret to Thick, Glossy Hair",
+      "slug": "scalp-health-real-secret-to-thick-hair",
+      "featuredImage": "https://images.unsplash.com/photo-1582095133179-bfd08e2fc6b3?auto=format&fit=crop&w=800&q=80",
+      "category": "Hair Care",
+      "date": "January 05, 2026",
+      "author": "Zoellas Beauty Editorial",
+      "summary": "Healthy hair can only grow from clean, stimulated follicles. Discover ozone scalp therapies and rosemary oil massages.",
+      "content": "\nYour scalp is an extension of your facial skin with a high density of sebaceous glands. Product buildup and hard water minerals can choke hair follicles. Incorporating an ozone scalp treatment and weekly rosemary oil massage supports healthy follicle longevity.\n    ",
+      "readTime": "4 min read",
+      "tags": [
+        "Scalp Health",
+        "Hair Growth",
+        "Ozone Therapy"
+      ],
+      "image": "https://images.unsplash.com/photo-1582095133179-bfd08e2fc6b3?auto=format&fit=crop&w=800&q=80",
+      "excerpt": "Healthy hair can only grow from clean, stimulated follicles. Discover ozone scalp therapies and rosemary oil massages."
+    },
+    {
+      "id": "blog-12",
+      "title": "Top 5 Salon Etiquette Tips for a Seamless Booking Experience",
+      "slug": "salon-etiquette-tips-seamless-booking",
+      "featuredImage": "https://images.unsplash.com/photo-1560869713-7d0a29430803?auto=format&fit=crop&w=800&q=80",
+      "category": "Salon Care",
+      "date": "December 28, 2025",
+      "author": "Zoellas Beauty Editorial",
+      "summary": "How arriving 10 minutes early, bringing visual references, and communicating your sensitivities makes your salon appointment effortless.",
+      "content": "\nClear communication between you and your beauty artist is key. Bringing two or three clear photo references helps your stylist understand your vision, while informing them of any product allergies ensures a safe, relaxing pampering session.\n    ",
+      "readTime": "3 min read",
+      "tags": [
+        "Salon Tips",
+        "Appointment Booking",
+        "Beauty Care"
+      ],
+      "image": "https://images.unsplash.com/photo-1560869713-7d0a29430803?auto=format&fit=crop&w=800&q=80",
+      "excerpt": "How arriving 10 minutes early, bringing visual references, and communicating your sensitivities makes your salon appointment effortless."
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-01",
+      "targetId": "srv-br-01",
+      "targetName": "Barat Master Bridal Luxury Package",
+      "userName": "Ayesha Siddiqui",
+      "userCity": "Karachi (PECHS)",
+      "rating": 5,
+      "comment": "My Barat makeover was beyond perfection! The HD base stayed radiant throughout the 6-hour event without any creasing, and the dupatta setting was rock solid. Highly recommended!",
+      "date": "2026-03-08",
+      "verified": true,
+      "isDemoNotice": "Sample customer review for demonstration."
+    },
+    {
+      "id": "rev-02",
+      "targetId": "prod-hair-01",
+      "targetName": "Keratin Peptide Restorative Shampoo",
+      "userName": "Zainab Fatima",
+      "userCity": "Karachi (Clifton)",
+      "rating": 5,
+      "comment": "The best sulfate-free shampoo I have used in Pakistan. It tamed my coastal frizz from the first wash and smells divine.",
+      "date": "2026-03-12",
+      "verified": true
+    },
+    {
+      "id": "rev-03",
+      "targetId": "srv-skin-01",
+      "targetName": "Signature Hydro-Oxygen Infusion Facial",
+      "userName": "Mahnoor Khan",
+      "userCity": "Karachi (Gulshan)",
+      "rating": 5,
+      "comment": "Instant glass skin! The oxygen infusion and extraction was so soothing and non-invasive. My skin felt plump for days.",
+      "date": "2026-03-02",
+      "verified": true
+    },
+    {
+      "id": "rev-04",
+      "targetId": "prod-mu-03",
+      "targetName": "Velvet Matte Long-Stay Lipstick",
+      "userName": "Hira Raza",
+      "userCity": "Karachi (DHA)",
+      "rating": 5,
+      "comment": "The shade Dusty Rose is my new holy grail! Completely transfer-proof and did not dry out my lips.",
+      "date": "2026-02-24",
+      "verified": true
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-admin",
+      "name": "Zoellas Studio Admin",
+      "email": "admin@zoellas.com",
+      "phone": "03111802834",
+      "role": "admin",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "city": "Karachi",
+      "address": "867c Tariq Rd, Block 2 P.E.C.H.S., Karachi",
+      "createdAt": "2026-01-01"
+    },
+    {
+      "id": "usr-demo",
+      "name": "Fatima Zahra",
+      "email": "fatima@example.com",
+      "phone": "03001234567",
+      "role": "customer",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80",
+      "city": "Karachi",
+      "address": "Apartment 4B, PECHS Block 2, Karachi",
+      "createdAt": "2026-02-15"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1001",
+      "orderNumber": "ZBS-ORD-2026-001",
+      "userId": "usr-demo",
+      "customer": {
+        "fullName": "Fatima Zahra",
+        "phone": "03001234567",
+        "email": "fatima@example.com",
+        "address": "Apartment 4B, Block 2 P.E.C.H.S.",
+        "area": "Block 2 P.E.C.H.S.",
+        "city": "Karachi",
+        "postalCode": "75400",
+        "deliveryNotes": "Please call before arriving."
+      },
+      "customerName": "Fatima Zahra",
+      "customerPhone": "03001234567",
+      "items": [
+        {
+          "id": "ci-1",
+          "product": {
+            "id": "prod-hair-01",
+            "name": "Keratin Peptide Restorative Shampoo",
+            "slug": "keratin-peptide-restorative-shampoo",
+            "category": "Hair Care",
+            "itemType": "product",
+            "description": "A sulfate-free salon-grade shampoo infused with biomimetic keratin peptides to rebuild fractured bonds, tame flyaways, and preserve vibrant hair color.",
+            "price": 3200,
+            "discountPrice": 2800,
+            "originalPrice": 3200,
+            "images": [
+              "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80"
+            ],
+            "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80",
+            "galleryImages": [
+              "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80"
+            ],
+            "stock": 24,
+            "stockCount": 24,
+            "rating": 4.9,
+            "reviews": 38,
+            "reviewsCount": 38,
+            "brand": "Zoellas Atelier",
+            "featured": true,
+            "bestSeller": true,
+            "isBestSeller": true,
+            "tags": [
+              "Hair Care",
+              "Sulfate Free",
+              "Keratin",
+              "Salon Grade"
+            ],
+            "ingredients": "Deionized Water, Sodium Lauroyl Methyl Isethionate, Hydrolyzed Keratin, Argan Oil, Panthenol (Pro-Vitamin B5).",
+            "howToUse": "Lather into wet scalp and massage gently with fingertips for 2 minutes. Rinse thoroughly with lukewarm water.",
+            "isDemoNotice": "Catalog demo specification. Contact 03111802834 for live inventory status."
+          },
+          "quantity": 1
+        },
+        {
+          "id": "ci-2",
+          "product": {
+            "id": "prod-hair-03",
+            "name": "Moroccan Golden Argan Gloss Serum",
+            "slug": "moroccan-golden-argan-gloss-serum",
+            "category": "Hair Care",
+            "itemType": "product",
+            "description": "Weightless finishing elixir that shields against humidity, seals split ends, and delivers an instant mirror glaze without greasiness.",
+            "price": 3800,
+            "originalPrice": 4200,
+            "images": [
+              "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80"
+            ],
+            "image": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80",
+            "stock": 30,
+            "stockCount": 30,
+            "rating": 5,
+            "reviews": 44,
+            "brand": "Botanical Haircare",
+            "featured": true,
+            "bestSeller": true,
+            "tags": [
+              "Argan Oil",
+              "Hair Serum",
+              "Gloss",
+              "Frizz Control"
+            ],
+            "ingredients": "Cyclopentasiloxane, Dimethiconol, Pure Argania Spinosa Kernel Oil, Linum Usitatissimum Seed Oil.",
+            "howToUse": "Pump 1–2 drops between palms and sweep through damp or dry ends."
+          },
+          "quantity": 1
+        }
+      ],
+      "subtotal": 6600,
+      "discount": 500,
+      "shippingFee": 0,
+      "total": 6100,
+      "paymentMethod": "cod",
+      "paymentStatus": "paid",
+      "orderStatus": "delivered",
+      "createdAt": "2026-03-10T14:30:00Z",
+      "updatedAt": "2026-03-12T16:00:00Z"
+    },
+    {
+      "id": "ord-1002",
+      "orderNumber": "ZBS-ORD-2026-002",
+      "userId": "usr-demo",
+      "customer": {
+        "fullName": "Fatima Zahra",
+        "phone": "03001234567",
+        "email": "fatima@example.com",
+        "address": "Apartment 4B, Block 2 P.E.C.H.S.",
+        "area": "Block 2 P.E.C.H.S.",
+        "city": "Karachi",
+        "postalCode": "75400"
+      },
+      "customerName": "Fatima Zahra",
+      "customerPhone": "03001234567",
+      "items": [
+        {
+          "id": "ci-3",
+          "product": {
+            "id": "prod-skin-03",
+            "name": "15% Vitamin C Glow Brightening Serum",
+            "slug": "15-percent-vitamin-c-glow-serum",
+            "category": "Skin Care",
+            "itemType": "product",
+            "description": "Potent antioxidant elixir combining L-Ascorbic Acid, Ferulic Acid, and Kakadu Plum to fade acne marks and promote lit-from-within clarity.",
+            "price": 4200,
+            "originalPrice": 4800,
+            "images": [
+              "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80"
+            ],
+            "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+            "stock": 20,
+            "stockCount": 20,
+            "rating": 5,
+            "reviews": 37,
+            "brand": "Radiance Lab",
+            "featured": true,
+            "bestSeller": true,
+            "tags": [
+              "Vitamin C",
+              "Brightening",
+              "Dark Spots",
+              "Antioxidant"
+            ],
+            "ingredients": "Aqua, 15% Ethylated Ascorbic Acid, Ferulic Acid, Tocopherol, Niacinamide.",
+            "howToUse": "Apply 3–4 drops onto freshly cleansed face in the morning. Follow with daily SPF."
+          },
+          "quantity": 1
+        }
+      ],
+      "subtotal": 4200,
+      "discount": 0,
+      "shippingFee": 0,
+      "total": 4200,
+      "paymentMethod": "bank_transfer",
+      "paymentStatus": "paid",
+      "orderStatus": "shipped",
+      "createdAt": "2026-03-18T11:15:00Z",
+      "updatedAt": "2026-03-19T09:30:00Z"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "appt-001",
+      "bookingId": "ZBS-2026-0001",
+      "appointmentNumber": "ZBS-2026-0001",
+      "userId": "usr-demo",
+      "customerName": "Fatima Zahra",
+      "clientName": "Fatima Zahra",
+      "phone": "03001234567",
+      "clientPhone": "03001234567",
+      "email": "fatima@example.com",
+      "clientEmail": "fatima@example.com",
+      "serviceId": "srv-skin-01",
+      "serviceName": "Signature Hydro-Oxygen Infusion Facial",
+      "serviceCategory": "Skin",
+      "date": "2026-03-25",
+      "appointmentDate": "2026-03-25",
+      "timeSlot": "02:00 PM",
+      "appointmentTime": "02:00 PM",
+      "price": 8500,
+      "estimatedPrice": 8500,
+      "notes": "Bride-to-be consultation.",
+      "status": "confirmed",
+      "createdAt": "2026-03-15T10:00:00Z"
+    },
+    {
+      "id": "appt-002",
+      "bookingId": "ZBS-2026-0002",
+      "appointmentNumber": "ZBS-2026-0002",
+      "userId": "usr-demo",
+      "customerName": "Fatima Zahra",
+      "clientName": "Fatima Zahra",
+      "phone": "03001234567",
+      "clientPhone": "03001234567",
+      "email": "fatima@example.com",
+      "clientEmail": "fatima@example.com",
+      "serviceId": "srv-mu-01",
+      "serviceName": "Signature Evening Party Glamour",
+      "serviceCategory": "Makeup",
+      "date": "2026-03-28",
+      "appointmentDate": "2026-03-28",
+      "timeSlot": "04:00 PM",
+      "appointmentTime": "04:00 PM",
+      "price": 9500,
+      "estimatedPrice": 9500,
+      "notes": "Attending a family wedding.",
+      "status": "pending",
+      "createdAt": "2026-03-18T16:30:00Z"
+    }
+  ]
+}

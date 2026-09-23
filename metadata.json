@@ -1,0 +1,6 @@
+{
+  "name": "Zoellas Beauty Salon",
+  "description": "Premium luxury beauty salon, boutique cosmetics e-commerce store, and online appointment booking on Tariq Road, PECHS, Karachi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
