@@ -1,7 +1,6 @@
 import express, { Request, Response } from 'express';
 import path from 'path';
 import fs from 'fs';
-import { createServer as createViteServer } from 'vite';
 import { 
   INITIAL_PRODUCTS, 
   INITIAL_SERVICES,
@@ -30,6 +29,25 @@ const PORT = 3000;
 // Middleware
 app.use(express.json());
 
+// CORS Support
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
+  if (req.method === 'OPTIONS') {
+    return res.sendStatus(200);
+  }
+  next();
+});
+
+// Normalize request URL if /api was stripped or rewritten
+app.use((req, _res, next) => {
+  if (req.url && !req.url.startsWith('/api') && !req.url.startsWith('/assets')) {
+    req.url = '/api' + (req.url.startsWith('/') ? req.url : '/' + req.url);
+  }
+  next();
+});
+
 // In-Memory & File-backed Database Store for reliable persistence
 interface SalonDatabase {
   products: Product[];
@@ -42,13 +60,28 @@ interface SalonDatabase {
   appointments: Appointment[];
 }
 
-const DB_FILE = path.join(process.cwd(), 'salon-database.json');
+const DB_FILE = process.env.VERCEL
+  ? path.join('/tmp', 'salon-database.json')
+  : path.join(process.cwd(), 'salon-database.json');
 
 function loadDatabase(): SalonDatabase {
   try {
     if (fs.existsSync(DB_FILE)) {
       const raw = fs.readFileSync(DB_FILE, 'utf-8');
       return JSON.parse(raw);
+    }
+    const rootDbFile = path.join(process.cwd(), 'salon-database.json');
+    if (fs.existsSync(rootDbFile)) {
+      const raw = fs.readFileSync(rootDbFile, 'utf-8');
+      const data = JSON.parse(raw);
+      if (process.env.VERCEL) {
+        try {
+          fs.writeFileSync(DB_FILE, raw, 'utf-8');
+        } catch {
+          // ignore
+        }
+      }
+      return data;
     }
   } catch (err) {
     console.error('Failed reading salon-database.json, falling back to initial data', err);
@@ -90,6 +123,17 @@ function saveDatabase() {
 
 // Ensure database is initialized
 saveDatabase();
+
+/* -------------------------------------------------------------
+   HEALTH CHECK ROUTE (/api/health & /api)
+------------------------------------------------------------- */
+app.get('/api', (_req: Request, res: Response) => {
+  res.json({ status: 'ok', name: 'Zoellas Beauty Salon API', version: '1.0.0' });
+});
+
+app.get('/api/health', (_req: Request, res: Response) => {
+  res.json({ status: 'ok', timestamp: new Date().toISOString() });
+});
 
 /* -------------------------------------------------------------
    AUTH API ROUTES (/api/auth)
@@ -842,7 +886,8 @@ app.post('/api/seed', (req: Request, res: Response) => {
    VITE DEV SERVER / STATIC ASSETS INTEGRATION
 ------------------------------------------------------------- */
 async function startServer() {
-  if (process.env.NODE_ENV !== 'production') {
+  if (process.env.NODE_ENV !== 'production' && !process.env.VERCEL) {
+    const { createServer: createViteServer } = await import('vite');
     const vite = await createViteServer({
       server: { middlewareMode: true },
       appType: 'spa',
@@ -857,9 +902,15 @@ async function startServer() {
     });
   }
 
-  app.listen(PORT, '0.0.0.0', () => {
-    console.log(`🌸 Zoellas Beauty Salon Server listening on port ${PORT}`);
-  });
+  if (!process.env.VERCEL) {
+    app.listen(PORT, '0.0.0.0', () => {
+      console.log(`🌸 Zoellas Beauty Salon Server listening on port ${PORT}`);
+    });
+  }
 }
 
-startServer();
+if (!process.env.VERCEL) {
+  startServer();
+}
+
+export default app;
