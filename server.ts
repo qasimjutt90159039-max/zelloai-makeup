@@ -1,7 +1,6 @@
 import express, { Request, Response } from 'express';
 import path from 'path';
 import fs from 'fs';
-import defaultSalonDb from './salon-database.json';
 import { 
   INITIAL_PRODUCTS, 
   INITIAL_SERVICES,
@@ -75,9 +74,6 @@ function loadDatabase(): SalonDatabase {
     console.warn('Could not read cached database from disk:', err);
   }
 
-  if (defaultSalonDb && Array.isArray((defaultSalonDb as any).products)) {
-    return defaultSalonDb as unknown as SalonDatabase;
-  }
 
   return {
     products: [...INITIAL_PRODUCTS],
