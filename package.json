@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
-    "build": "npm install --include=dev && vite build && node -e \"import('fs').then(fs => { try { if (fs.existsSync('salon-database.json')) fs.copyFileSync('salon-database.json', 'api/salon-database.json'); if (fs.existsSync('dist')) { fs.cpSync('dist', 'public', {recursive:true}); fs.cpSync('dist/assets', 'assets', {recursive:true}); } } catch(e){} })\"",
+    "build": "vite build",
     "build:server": "esbuild server.ts --bundle --platform=node --format=cjs --packages=external --sourcemap --outfile=dist/server.cjs",
     "start": "node dist/server.cjs",
     "clean": "rm -rf dist server.js",
